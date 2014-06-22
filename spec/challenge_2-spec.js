@@ -1,4 +1,4 @@
-var challenge_2 = require("../challenge_2");
+var challenge_2 = require("../js/challenge_2");
  
 describe("Sum of even numbers in the fibonnaci sequence", function () {
   
